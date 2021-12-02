@@ -1,0 +1,21 @@
+.iconoRedSocial {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.imgEmpresa {
+  width: 100px;
+  height: 100px;
+}
+
+.contenedor{
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.item{
+    justify-items: center;
+}
+ .verProducto{
+    width: 50%;
+ }
